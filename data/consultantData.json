@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "about1": "Hello, I'm Swetha, a licensed therapist dedicated to guiding individuals through life's challenges with empathy and expertise. With over 4 years of experience, I specialize in helping clients manage anxiety, depression, and relationship issues through personalized, evidence-based practices.",
+    "about2": "My commitment to continuous learning keeps me updated with the latest therapeutic techniques, allowing me to provide the best possible care. Whether you seek stress management strategies or personal growth, I am here to empower you on your journey towards emotional well-being. I offer convenient online consultation bookings, making it easier for you to take the first step towards a healthier, happier life.",
+    "qualification": [
+      "Ph.D. in Clinical Psychology - Harvard University",
+      "M.A. in Counseling - University of California, Berkeley"
+    ],
+    "licence": "Licensed Professional Counselor (LPC) - State of DEF",
+    "certification": "Certified Cognitive Behavioral Therapist (CBT)",
+    "connection": "Member, American Psychological Association (APA)",
+    "experience": "10+ years of experience in individual and group therapy",
+    "location": "Chennai, India",
+    "language": "English, Hindi"
+  },
+  {
+    "id": 2,
+    "about1": "",
+    "about2": "",
+    "qualification": [],
+    "licence": "",
+    "certification": "",
+    "connection": "",
+    "experience": "",
+    "location": "Chennai, India",
+    "language": "English, Hindi"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Swetha Verma",
+    "service": "Consultant Clinical Psychologist",
+    "experience": "10",
+    "charge": "1,200",
+    "label": "Swetha Verma",
+    "image": "../public/consultant1.png",
+    "location": "Block A2, Delhi",
+    "verified": true
+  },
+  {
+    "id": 2,
+    "name": "",
+    "service": "",
+    "experience": "",
+    "charge": "",
+    "label": "",
+    "image": "",
+    "location": "",
+    "verified": false
+  }
+]
